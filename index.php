@@ -1,4 +1,5 @@
 <?php
+    // Design: https://madebydesignesia.com/themes/kyros/index-video-background.html#top
     $name ='Ilcho Vuchkov';
     $description = 'Personal website of ' . $name . '. Work and live in Bulgaria (EU).';
     $phone ='+359 878 777 111'
