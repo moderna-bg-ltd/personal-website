@@ -7,4 +7,4 @@
   simple php & command: `php -S localhost:8000`
 
 ## Live example site
-- https://test.ilchovuchkov.com/
+- https://ilchovuchkov.com/
